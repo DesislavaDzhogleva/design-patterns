@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+/ObserverPattern/bin/
+
 
 # Log file
 *.log
